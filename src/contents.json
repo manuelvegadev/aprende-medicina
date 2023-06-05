@@ -1,0 +1,3106 @@
+[
+  {
+    "name": "Introducción a los instrumentos quirúrgicos",
+    "number": 1,
+    "instrumentos": [
+      {
+        "number": "1",
+        "name": "Tijeras de Mayo y pinzas de Kocher; se indican las partes de los instrumentos con anillos",
+        "img": "images/1-1.jpg"
+      },
+      {
+        "number": "2",
+        "name": "Pinzas de disección; se indican sus partes",
+        "img": "images/1-2.jpg"
+      },
+      {
+        "number": "3",
+        "name": "Separador doble de Richardson-Eastman; se indican sus partes",
+        "img": "images/1-3.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Instrumental básico",
+    "number": 2,
+    "instrumentos": [
+      {
+        "number": "1",
+        "name": "LÁPIZ ELECTROQUIRÚGICO",
+        "img": "images/2-1.jpg"
+      },
+      {
+        "number": "2",
+        "name": "ESCALPELO ARMÓNICO",
+        "img": "images/2-2.jpg"
+      },
+      {
+        "number": "3",
+        "name": "PINZAS DE CRILE",
+        "img": "images/2-3.jpg"
+      },
+      {
+        "number": "4",
+        "name": "PINZAS DE HALSTEAD",
+        "img": "images/2-4.jpg"
+      },
+      {
+        "number": "5",
+        "name": "PINZAS DE KELLY",
+        "img": "images/2-5.jpg"
+      },
+      {
+        "number": "6",
+        "name": "PINZAS DE ROCHESTER-PÉAN",
+        "img": "images/2-6.jpg"
+      },
+      {
+        "number": "7",
+        "name": "PINZAS DE CARMALT",
+        "img": "images/2-7.jpg"
+      },
+      {
+        "number": "8",
+        "name": "PINZAS DE MIXTER",
+        "img": "images/2-8.jpg"
+      },
+      {
+        "number": "9",
+        "name": "PINZAS HEMOSTÁTICAS DE ADSON",
+        "img": "images/2-9.jpg"
+      },
+      {
+        "number": "10",
+        "name": "TIJERAS DE MAYO RECTAS",
+        "img": "images/2-10.jpg"
+      },
+      {
+        "number": "11",
+        "name": "TIJERAS DE MAYO CURVAS",
+        "img": "images/2-11.jpg"
+      },
+      {
+        "number": "12",
+        "name": "TIJERAS DE METZENBAUM",
+        "img": "images/2-12.jpg"
+      },
+      {
+        "number": "13",
+        "name": "TIJERAS PARA VENDAJES DE LISTER",
+        "img": "images/2-13.jpg"
+      },
+      {
+        "number": "14",
+        "name": "TIJERAS PARA ALAMBRE",
+        "img": "images/2-14.jpg"
+      },
+      {
+        "number": "15",
+        "name": "MANGO DE BISTURÍ #3",
+        "img": "images/2-15.jpg"
+      },
+      {
+        "number": "16",
+        "name": "MANGO DE BISTURÍ #3 LARGO",
+        "img": "images/2-16.jpg"
+      },
+      {
+        "number": "17",
+        "name": "MANGO DE BISTURÍ #7",
+        "img": "images/2-17.jpg"
+      },
+      {
+        "number": "18",
+        "name": "HOJA DE BISTURÍ #10",
+        "img": "images/2-18.jpg"
+      },
+      {
+        "number": "19",
+        "name": "HOJA DE BISTURÍ #11",
+        "img": "images/2-19.jpg"
+      },
+      {
+        "number": "20",
+        "name": "HOJA DE BISTURÍ #12",
+        "img": "images/2-20.jpg"
+      },
+      {
+        "number": "21",
+        "name": "HOJA DE BISTURÍ #15",
+        "img": "images/2-21.jpg"
+      },
+      {
+        "number": "22",
+        "name": "MANGO DE BISTURÍ #4",
+        "img": "images/2-22.jpg"
+      },
+      {
+        "number": "23",
+        "name": "HOJA DE BISTURÍ #20",
+        "img": "images/2-23.jpg"
+      },
+      {
+        "number": "24",
+        "name": "MANGO DE BISTURÍ DE BEAVER",
+        "img": "images/2-24.jpg"
+      },
+      {
+        "number": "25",
+        "name": "PINZAS DE DISECCIÓN DE ADSON SIN DIENTES",
+        "img": "images/2-25.jpg"
+      },
+      {
+        "number": "26",
+        "name": "PINZAS DE DISECCIÓN DE ADSON CON DIENTES",
+        "img": "images/2-26.jpg"
+      },
+      {
+        "number": "27",
+        "name": "PINZAS DE DISECCIÓN DE BROWN-ADSON",
+        "img": "images/2-27.jpg"
+      },
+      {
+        "number": "28",
+        "name": "PINZAS DE DISECCIÓN SIMPLES",
+        "img": "images/2-28.jpg"
+      },
+      {
+        "number": "29",
+        "name": "PINZAS DE DISECCIÓN CON DIENTES",
+        "img": "images/2-29.jpg"
+      },
+      {
+        "number": "30",
+        "name": "PINZAS DE DISECCIÓN DE DEBAKEY",
+        "img": "images/2-30.jpg"
+      },
+      {
+        "number": "31",
+        "name": "PINZAS DE DISECCIÓN DE FERRIS-SMITH",
+        "img": "images/2-31.jpg"
+      },
+      {
+        "number": "32",
+        "name": "PINZAS DE DISECCIÓN RUSAS",
+        "img": "images/2-32.jpg"
+      },
+      {
+        "number": "33",
+        "name": "PINZAS PARA CAMPOS DE BACKHAUS",
+        "img": "images/2-33.jpg"
+      },
+      {
+        "number": "34",
+        "name": "PINZAS PARA CAMPOS NO PENETRANTES",
+        "img": "images/2-34.jpg"
+      },
+      {
+        "number": "35",
+        "name": "PINZAS PORTAESPONJA DE FORESTER",
+        "img": "images/2-35.jpg"
+      },
+      {
+        "number": "36",
+        "name": "PINZAS DE ALLIS",
+        "img": "images/2-36.jpg"
+      },
+      {
+        "number": "37",
+        "name": "PINZAS DE BABCOCK",
+        "img": "images/2-37.jpg"
+      },
+      {
+        "number": "38",
+        "name": "PINZAS HEMOSTÁTICAS DE KOCHER RECTAS",
+        "img": "images/2-38.jpg"
+      },
+      {
+        "number": "39",
+        "name": "SEPARADOR DE PARKER-LANGENBECK",
+        "img": "images/2-39.jpg"
+      },
+      {
+        "number": "40",
+        "name": "SEPARADOR DE GOELET",
+        "img": "images/2-40.jpg"
+      },
+      {
+        "number": "41",
+        "name": "SEPARADOR DE SENN",
+        "img": "images/2-41.jpg"
+      },
+      {
+        "number": "42",
+        "name": "SEPARADOR DE MURPHY",
+        "img": "images/2-42.jpg"
+      },
+      {
+        "number": "43",
+        "name": "SEPARADOR DE VOLKMAN",
+        "img": "images/2-43.jpg"
+      },
+      {
+        "number": "44",
+        "name": "ESPÁTULA MALEABLE",
+        "img": "images/2-44.jpg"
+      },
+      {
+        "number": "45",
+        "name": "SEPARADOR DE PARKER",
+        "img": "images/2-45.jpg"
+      },
+      {
+        "number": "46",
+        "name": "ERINA",
+        "img": "images/2-46.jpg"
+      },
+      {
+        "number": "47",
+        "name": "SEPARADOR DE WEITLANER",
+        "img": "images/2-47.jpg"
+      },
+      {
+        "number": "48",
+        "name": "SEPARADOR DE GELPI",
+        "img": "images/2-48.jpg"
+      },
+      {
+        "number": "49",
+        "name": "CÁNULA DE ASPIRACIÓN DE FRAZIER",
+        "img": "images/2-49.jpg"
+      },
+      {
+        "number": "50",
+        "name": "CÁNULA DE ASPIRACIÓN DE POOLE",
+        "img": "images/2-50.jpg"
+      },
+      {
+        "number": "51",
+        "name": "CÁNULA DE ASPIRACIÓN DE YANKAUER",
+        "img": "images/2-51.jpg"
+      },
+      {
+        "number": "52",
+        "name": "PORTAAGUJAS DE CRILE-WOOD",
+        "img": "images/2-52.jpg"
+      },
+      {
+        "number": "53",
+        "name": "PORTAAGUJAS DE MAYO-HEGAR",
+        "img": "images/2-53.jpg"
+      },
+      {
+        "number": "54",
+        "name": "PORTAAGUJAS DE RYDER",
+        "img": "images/2-54.jpg"
+      },
+      {
+        "number": "55",
+        "name": "ENGRAPADORA DE PIEL",
+        "img": "images/2-55.jpg"
+      },
+      {
+        "number": "56",
+        "name": "PINZAS APLICADORAS DE CLIPS",
+        "img": "images/2-56.jpg"
+      },
+      {
+        "number": "57",
+        "name": "APLICADOR DE CLIPS PRECARGADO",
+        "img": "images/2-57.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Instrumental general",
+    "number": 3,
+    "instrumentos": [
+      {
+        "number": "1",
+        "name": "CUCHARILLA PARA CÁLCULOS BILIARES DE FERGUSSON",
+        "img": "images/3-1.jpg"
+      },
+      {
+        "number": "2",
+        "name": "PINZAS INTESTINALES DE CARTER-GLASSMAN",
+        "img": "images/3-2.jpg"
+      },
+      {
+        "number": "3",
+        "name": "PINZAS INTESTINALES DE DOYEN",
+        "img": "images/3-3.jpg"
+      },
+      {
+        "number": "4",
+        "name": "PINZAS GÉMINIS",
+        "img": "images/3-4.jpg"
+      },
+      {
+        "number": "5",
+        "name": "PINZAS DE LAHEY PARA CONDUCTOS BILIARES",
+        "img": "images/3-5.jpg"
+      },
+      {
+        "number": "6",
+        "name": "TROCAR PARA VESÍCULA BILIAR",
+        "img": "images/3-6.jpg"
+      },
+      {
+        "number": "7",
+        "name": "PINZAS DE PENNINGTON",
+        "img": "images/3-7.jpg"
+      },
+      {
+        "number": "8",
+        "name": "PINZAS PARA CÁLCULOS BILIARES DE DESJARDIN",
+        "img": "images/3-8.jpg"
+      },
+      {
+        "number": "9",
+        "name": "SONDA ACANALADA Y ESTILETE",
+        "img": "images/3-9.jpg"
+      },
+      {
+        "number": "10",
+        "name": "DILATADORES DE BAKES DE CONDUCTO COLÉDOCO",
+        "img": "images/3-10.jpg"
+      },
+      {
+        "number": "11",
+        "name": "SEPARADOR DE RICHARDSON-EASTMAN",
+        "img": "images/3-11.jpg"
+      },
+      {
+        "number": "12",
+        "name": "SEPARADOR DE RICHARDSON",
+        "img": "images/3-12.jpg"
+      },
+      {
+        "number": "13",
+        "name": "SEPARADOR DE KELLY",
+        "img": "images/3-13.jpg"
+      },
+      {
+        "number": "14",
+        "name": "SEPARADOR DE DEAVER",
+        "img": "images/3-14.jpg"
+      },
+      {
+        "number": "15",
+        "name": "SEPARADOR DE HARRINGTON",
+        "img": "images/3-15.jpg"
+      },
+      {
+        "number": "16",
+        "name": "MAYO ABDOMINAL RETRACTOR",
+        "img": "images/3-16.jpg"
+      },
+      {
+        "number": "17",
+        "name": "SEPARADOR DE BALFOUR",
+        "img": "images/3-17.jpg"
+      },
+      {
+        "number": "18",
+        "name": "SEPARADOR DE BOOKWALTER",
+        "img": "images/3-18.jpg"
+      },
+      {
+        "number": "19",
+        "name": "ESPÉCULO RECTAL DE PRATT",
+        "img": "images/3-19.jpg"
+      },
+      {
+        "number": "20",
+        "name": "SEPARADOR RECTAL DE SAWYER",
+        "img": "images/3-20.jpg"
+      },
+      {
+        "number": "21",
+        "name": "ENGRAPADORA CORTADORA LINEAL",
+        "img": "images/3-21.jpg"
+      },
+      {
+        "number": "22",
+        "name": "ENGRAPADORA LINEAL",
+        "img": "images/3-22.jpg"
+      },
+      {
+        "number": "23",
+        "name": "ENGRAPADORA PARA LIGADURA DE VASOS",
+        "img": "images/3-23.jpg"
+      },
+      {
+        "number": "24",
+        "name": "ENGRAPADORA INTRALUMINAL",
+        "img": "images/3-24.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Instrumental en laparoscopia",
+    "number": 4,
+    "instrumentos": [
+      {
+        "number": "1",
+        "name": "SOLUCIÓN ANTIEMPAÑANTE",
+        "img": "images/4-1.jpg"
+      },
+      {
+        "number": "2",
+        "name": "CALENTADOR DE ENDOSCOPIOS",
+        "img": "images/4-2.jpg"
+      },
+      {
+        "number": "3",
+        "name": "DISECTOR LAPAROSCÓPICO DE KITTNER",
+        "img": "images/4-3.jpg"
+      },
+      {
+        "number": "4",
+        "name": "TUBERÍA DE INSUFLACIÓN",
+        "img": "images/4-4.jpg"
+      },
+      {
+        "number": "5",
+        "name": "CORDÓN LUMINOSO DEL FIBROSCOPIO",
+        "img": "images/4-5.jpg"
+      },
+      {
+        "number": "6",
+        "name": "SELLADOR BIPOLAR",
+        "img": "images/4-6.jpg"
+      },
+      {
+        "number": "7",
+        "name": "GANCHO DISECTOR MONOPOLAR CON PUNTA EN L",
+        "img": "images/4-7.jpg"
+      },
+      {
+        "number": "8",
+        "name": "GANCHO DISECTOR MONOPOLAR CON PUNTA EN J",
+        "img": "images/4-8.jpg"
+      },
+      {
+        "number": "9",
+        "name": "PINZAS BIPOLARES DE KLEPPINGER",
+        "img": "images/4-9.jpg"
+      },
+      {
+        "number": "10",
+        "name": "ESCALPELO ARMÓNICO ENDOSCÓPICO",
+        "img": "images/4-10.jpg"
+      },
+      {
+        "number": "11",
+        "name": "BOLSA DE EXTRACCIÓN ENDOSCÓPICA",
+        "img": "images/4-11.jpg"
+      },
+      {
+        "number": "12",
+        "name": "AGUJA DE VERESS",
+        "img": "images/4-12.jpg"
+      },
+      {
+        "number": "13",
+        "name": "PINZAS DE MIXTER ENDOSCÓPICAS",
+        "img": "images/4-13.jpg"
+      },
+      {
+        "number": "14",
+        "name": "PINZAS DE DISECCIÓN DE PUNTA ROMA LAPAROSCÓPICAS",
+        "img": "images/4-14.jpg"
+      },
+      {
+        "number": "15",
+        "name": "PINZAS DE DISECCIÓN TIPO DELFÍN",
+        "img": "images/4-15.jpg"
+      },
+      {
+        "number": "16",
+        "name": "PINZAS DE DISECCIÓN DE PUNTA CÓNICA",
+        "img": "images/4-16.jpg"
+      },
+      {
+        "number": "17",
+        "name": "PINZAS DE DISECCIÓN DE MARYLAND LAPAROSCÓPICAS",
+        "img": "images/4-17.jpg"
+      },
+      {
+        "number": "18",
+        "name": "TIJERAS ENDOSCÓPICAS",
+        "img": "images/4-18.jpg"
+      },
+      {
+        "number": "19",
+        "name": "TIJERAS DE GANCHO ENDOSCÓPICAS",
+        "img": "images/4-19.jpg"
+      },
+      {
+        "number": "20",
+        "name": "PINZAS DE BIOPSIA ENDOSCÓPICAS",
+        "img": "images/4-20.jpg"
+      },
+      {
+        "number": "21",
+        "name": "PINZAS SACABOCADOS PARA BIOPSIA ENDOSCÓPICAS",
+        "img": "images/4-21.jpg"
+      },
+      {
+        "number": "22",
+        "name": "TROCARES LAPAROSCÓPICOS",
+        "img": "images/4-22.jpg"
+      },
+      {
+        "number": "23",
+        "name": "TROCAR ÓPTICO",
+        "img": "images/4-23.jpg"
+      },
+      {
+        "number": "24",
+        "name": "PINZAS DE COLANGIOGRAFÍA",
+        "img": "images/4-24.jpg"
+      },
+      {
+        "number": "25",
+        "name": "PINZAS DE DEBAKEY ENDOSCÓ-PICAS",
+        "img": "images/4-25.jpg"
+      },
+      {
+        "number": "26",
+        "name": "PINZAS DE ALLIS ENDOSCÓPICAS",
+        "img": "images/4-26.jpg"
+      },
+      {
+        "number": "27",
+        "name": "PINZAS DE BABCOCK ENDOSCÓPICAS",
+        "img": "images/4-27.jpg"
+      },
+      {
+        "number": "28",
+        "name": "PINZAS DE SUJECIÓN ATRAUMÁTICA ENDOSCÓPICAS",
+        "img": "images/4-28.jpg"
+      },
+      {
+        "number": "29",
+        "name": "PINZAS DENTADAS EN GARRA ENDOSCÓPICAS",
+        "img": "images/4-29.jpg"
+      },
+      {
+        "number": "30",
+        "name": "PINZAS DE HUNTER",
+        "img": "images/4-30.jpg"
+      },
+      {
+        "number": "31",
+        "name": "TROCARES ÓPTICOS NO CORTANTES",
+        "img": "images/4-31.jpg"
+      },
+      {
+        "number": "32",
+        "name": "TROCAR NO CORTANTE DE DILATACIÓN RADIAL",
+        "img": "images/4-32.jpg"
+      },
+      {
+        "number": "33",
+        "name": "TROCAR DE PUNTA ROMA",
+        "img": "images/4-33.jpg"
+      },
+      {
+        "number": "34",
+        "name": "SEPARADOR DE ABANICO ENDOSCÓPICO",
+        "img": "images/4-34.jpg"
+      },
+      {
+        "number": "35",
+        "name": "SEPARADOR DE PALA ENDOSCÓPICO",
+        "img": "images/4-35.jpg"
+      },
+      {
+        "number": "36",
+        "name": "SEPARADOR FLEXIBLE ENDOSCÓPICO",
+        "img": "images/4-36.jpg"
+      },
+      {
+        "number": "37",
+        "name": "ASPIRADOR IRRIGADOR LAPAROSCÓPICO",
+        "img": "images/4-37.jpg"
+      },
+      {
+        "number": "38",
+        "name": "CÁNULA DE ASPIRACIÓN LAPAROSCÓPICA",
+        "img": "images/4-38.jpg"
+      },
+      {
+        "number": "39",
+        "name": "AGUJA DE ASPIRACIÓN ENDOSCÓPICA",
+        "img": "images/4-39.jpg"
+      },
+      {
+        "number": "40",
+        "name": "PORTAAGUJAS LAPAROSCÓPICO",
+        "img": "images/4-40.jpg"
+      },
+      {
+        "number": "41",
+        "name": "BAJANUDOS ENDOSCÓPICO",
+        "img": "images/4-41.jpg"
+      },
+      {
+        "number": "42",
+        "name": "APLICADOR DE CLIPS ENDOSCÓPICO",
+        "img": "images/4-42.jpg"
+      },
+      {
+        "number": "43",
+        "name": "ENGRAPADORA ENDOSCÓPICA",
+        "img": "images/4-43.jpg"
+      },
+      {
+        "number": "44",
+        "name": "CÁMARA ENDOSCÓPICA",
+        "img": "images/4-44.jpg"
+      },
+      {
+        "number": "45",
+        "name": "ENDOSCOPIO DE 10 MM Y 0°",
+        "img": "images/4-45.jpg"
+      },
+      {
+        "number": "46",
+        "name": "ENDOSCOPIO DE 10 MM Y 30°",
+        "img": "images/4-46.jpg"
+      },
+      {
+        "number": "47",
+        "name": "ENDOSCOPIO DE 5 MM Y 0°",
+        "img": "images/4-47.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Instrumental en robótica",
+    "number": 5,
+    "instrumentos": [
+      {
+        "number": "1",
+        "name": "MUÑECA ROBÓTICA ENDOSCÓPICA",
+        "img": "images/5-1.jpg"
+      },
+      {
+        "number": "2",
+        "name": "ESPÁTULA CAUTERIO PERMANENTE",
+        "img": "images/5-2.jpg"
+      },
+      {
+        "number": "3",
+        "name": "PINZAS BIPOLARES DE MARYLAND",
+        "img": "images/5-3.jpg"
+      },
+      {
+        "number": "4",
+        "name": "TIJERAS CURVAS",
+        "img": "images/5-4.jpg"
+      },
+      {
+        "number": "5",
+        "name": "TIJERAS DE POTTS",
+        "img": "images/5-5.jpg"
+      },
+      {
+        "number": "6",
+        "name": "PINZAS DE DISECCIÓN PK®",
+        "img": "images/5-6.jpg"
+      },
+      {
+        "number": "7",
+        "name": "PINZAS COBRA",
+        "img": "images/5-7.jpg"
+      },
+      {
+        "number": "8",
+        "name": "PINZAS DE DEBAKEY",
+        "img": "images/5-8.jpg"
+      },
+      {
+        "number": "9",
+        "name": "PINZAS DE RESANO",
+        "img": "images/5-9.jpg"
+      },
+      {
+        "number": "10",
+        "name": "PINZAS PROGRASP™",
+        "img": "images/5-10.jpg"
+      },
+      {
+        "number": "11",
+        "name": "SEPARADOR ARTERIAL",
+        "img": "images/5-11.jpg"
+      },
+      {
+        "number": "12",
+        "name": "TIJERAS PORTAAGUJAS",
+        "img": "images/5-12.jpg"
+      },
+      {
+        "number": "13",
+        "name": "PORTAAGUJAS GRANDE",
+        "img": "images/5-13.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Instrumental en ginecología y obstetricia",
+    "number": 6,
+    "instrumentos": [
+      {
+        "number": "1",
+        "name": "ELECTRODO DE ASA PARA ESCISIÓN ELECTROQUIRÚRGICA",
+        "img": "images/6-1.jpg"
+      },
+      {
+        "number": "2",
+        "name": "PINZAS PARA HISTERECTOMÍA DE HEANEY",
+        "img": "images/6-2.jpg"
+      },
+      {
+        "number": "3",
+        "name": "PINZAS PARA HISTERECTOMÍA DE HEANEY-BALLENTINE",
+        "img": "images/6-3.jpg"
+      },
+      {
+        "number": "4",
+        "name": "PINZAS PARA CORDÓN UMBILICAL",
+        "img": "images/6-4.jpg"
+      },
+      {
+        "number": "5",
+        "name": "LEGRA DE THOMAS-GAILLARD",
+        "img": "images/6-5.jpg"
+      },
+      {
+        "number": "6",
+        "name": "LEGRA DE SIMS",
+        "img": "images/6-6.jpg"
+      },
+      {
+        "number": "7",
+        "name": "LEGRA DE KEVORKIAN",
+        "img": "images/6-7.jpg"
+      },
+      {
+        "number": "8",
+        "name": "LEGRA DE HEANEY",
+        "img": "images/6-8.jpg"
+      },
+      {
+        "number": "9",
+        "name": "TIJERAS UTERINAS DE MAYO",
+        "img": "images/6-9.jpg"
+      },
+      {
+        "number": "10",
+        "name": "PINZAS DE THOMAS-GAYLOR",
+        "img": "images/6-10.jpg"
+      },
+      {
+        "number": "11",
+        "name": "MANGO DE BISTURÍ #3 LARGO ANGULADO",
+        "img": "images/6-11.jpg"
+      },
+      {
+        "number": "12",
+        "name": "MORCELADOR LAPAROSCÓPICO",
+        "img": "images/6-12.jpg"
+      },
+      {
+        "number": "13",
+        "name": "TIJERAS PARA HISTEROSCOPIO",
+        "img": "images/6-13.jpg"
+      },
+      {
+        "number": "14",
+        "name": "PINZAS DE BIOPSIA PARA HISTEROSCOPIO",
+        "img": "images/6-14.jpg"
+      },
+      {
+        "number": "15",
+        "name": "PINZAS DE JACOBS",
+        "img": "images/6-15.jpg"
+      },
+      {
+        "number": "16",
+        "name": "TENÁCULO DE UN DIENTE",
+        "img": "images/6-16.jpg"
+      },
+      {
+        "number": "17",
+        "name": "TENÁCULO DE DOS DIENTES",
+        "img": "images/6-17.jpg"
+      },
+      {
+        "number": "18",
+        "name": "PINZAS UTERINAS DE HULKA",
+        "img": "images/6-18.jpg"
+      },
+      {
+        "number": "19",
+        "name": "PINZAS DE ALLIS-ADAIR",
+        "img": "images/6-19.jpg"
+      },
+      {
+        "number": "20",
+        "name": "PINZAS DE OCHSNER CURVAS",
+        "img": "images/6-20.jpg"
+      },
+      {
+        "number": "21",
+        "name": "PINZAS DE BOZEMAN",
+        "img": "images/6-21.jpg"
+      },
+      {
+        "number": "22",
+        "name": "PINZAS PARA PÓLIPOS",
+        "img": "images/6-22.jpg"
+      },
+      {
+        "number": "23",
+        "name": "PINZAS OBSTÉTRICAS DE SIMPSON",
+        "img": "images/6-23.jpg"
+      },
+      {
+        "number": "24",
+        "name": "PINZAS DE SUJECIÓN PARA HISTEROSCOPIO",
+        "img": "images/6-24.jpg"
+      },
+      {
+        "number": "25",
+        "name": "SEPARADORES DE HANK",
+        "img": "images/6-25.jpg"
+      },
+      {
+        "number": "26",
+        "name": "SEPARADORES DE HEGAR",
+        "img": "images/6-26.jpg"
+      },
+      {
+        "number": "27",
+        "name": "SEPARADORES DE PRATT",
+        "img": "images/6-27.jpg"
+      },
+      {
+        "number": "28",
+        "name": "HISTERÓMETRO DE SIMS",
+        "img": "images/6-28.jpg"
+      },
+      {
+        "number": "29",
+        "name": "ESPÉCULO VAGINAL DE AUVARD",
+        "img": "images/6-29.jpg"
+      },
+      {
+        "number": "30",
+        "name": "ESPÉCULO VAGINAL DE GRAVES",
+        "img": "images/6-30.jpg"
+      },
+      {
+        "number": "31",
+        "name": "SEPARADOR DE O’SULLIVAN-O’CONNOR",
+        "img": "images/6-31.jpg"
+      },
+      {
+        "number": "32",
+        "name": "SEPARADOR DE HEANEY",
+        "img": "images/6-32.jpg"
+      },
+      {
+        "number": "33",
+        "name": "SEPARADOR DE EASTMAN",
+        "img": "images/6-33.jpg"
+      },
+      {
+        "number": "34",
+        "name": "SEPARADOR DE DEAVER PEQUEÑO",
+        "img": "images/6-34.jpg"
+      },
+      {
+        "number": "35",
+        "name": "PERA DE GOMA",
+        "img": "images/6-35.jpg"
+      },
+      {
+        "number": "36",
+        "name": "TRAMPA DE LUKENS",
+        "img": "images/6-36.jpg"
+      },
+      {
+        "number": "37",
+        "name": "PORTAAGUJAS DE HEANEY",
+        "img": "images/6-37.jpg"
+      },
+      {
+        "number": "38",
+        "name": "HISTEROSCOPIO",
+        "img": "images/6-38.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Instrumental genitourinario",
+    "number": 7,
+    "instrumentos": [
+      {
+        "number": "1",
+        "name": "CORDÓN LUMINOSO FIBRÓPTICO",
+        "img": "images/7-1.jpg"
+      },
+      {
+        "number": "2",
+        "name": "TUBERÍA DE IRRIGACIÓN",
+        "img": "images/7-2.jpg"
+      },
+      {
+        "number": "3",
+        "name": "TAPONES REDUCTORES",
+        "img": "images/7-3.jpg"
+      },
+      {
+        "number": "4",
+        "name": "PUENTE PARA ENDOSCOPIO",
+        "img": "images/7-4.jpg"
+      },
+      {
+        "number": "5",
+        "name": "ELEMENTO DEFLECTOR DE SONDA",
+        "img": "images/7-5.jpg"
+      },
+      {
+        "number": "6",
+        "name": "ELEMENTO DE TRABAJO TIPO IGLESIAS",
+        "img": "images/7-6.jpg"
+      },
+      {
+        "number": "7",
+        "name": "ELECTRODO DE ASA",
+        "img": "images/7-7.jpg"
+      },
+      {
+        "number": "8",
+        "name": "ELECTRODO DE ASA Y ESFERA",
+        "img": "images/7-8.jpg"
+      },
+      {
+        "number": "9",
+        "name": "ELECTRODO MONOPOLAR FLE-XIBLE",
+        "img": "images/7-9.jpg"
+      },
+      {
+        "number": "10",
+        "name": "ALAMBRE GUÍA",
+        "img": "images/7-10.jpg"
+      },
+      {
+        "number": "11",
+        "name": "PINZAS RENALES DE YOUNG",
+        "img": "images/7-11.jpg"
+      },
+      {
+        "number": "12",
+        "name": "PINZAS HEMOSTÁTICAS DE HERRICK",
+        "img": "images/7-12.jpg"
+      },
+      {
+        "number": "13",
+        "name": "PINZAS DE WERTHEIM-CULLEN",
+        "img": "images/7-13.jpg"
+      },
+      {
+        "number": "14",
+        "name": "PINZAS DE WERTHEIM",
+        "img": "images/7-14.jpg"
+      },
+      {
+        "number": "15",
+        "name": "PINZAS VASCULARES DE MAYO-GUYON",
+        "img": "images/7-15.jpg"
+      },
+      {
+        "number": "16",
+        "name": "PINZAS PARA BIOPSIA ENDOSCÓPICAS",
+        "img": "images/7-16.jpg"
+      },
+      {
+        "number": "17",
+        "name": "URETRÓTOMO ENDOSCÓPICO",
+        "img": "images/7-17.jpg"
+      },
+      {
+        "number": "18",
+        "name": "TRACTOR PROSTÁTICO DE LOWSLEY",
+        "img": "images/7-18.jpg"
+      },
+      {
+        "number": "19",
+        "name": "CANASTILLA PARA CÁLCULOS",
+        "img": "images/7-19.jpg"
+      },
+      {
+        "number": "20",
+        "name": "PINZAS DE RANDALL PARA CÁLCULOS RENALES",
+        "img": "images/7-20.jpg"
+      },
+      {
+        "number": "21",
+        "name": "SONDA URETRAL FEMENINA DE WALTHER",
+        "img": "images/7-21.jpg"
+      },
+      {
+        "number": "22",
+        "name": "SONDAS URETRALES DE VAN BUREN",
+        "img": "images/7-22.jpg"
+      },
+      {
+        "number": "23",
+        "name": "DILATADOR DE BALÓN",
+        "img": "images/7-23.jpg"
+      },
+      {
+        "number": "24",
+        "name": "SEPARADOR ANTERIOR DE YOUNG",
+        "img": "images/7-24.jpg"
+      },
+      {
+        "number": "25",
+        "name": "SEPARADOR DE YOUNG CON MUESCA",
+        "img": "images/7-25.jpg"
+      },
+      {
+        "number": "26",
+        "name": "SEPARADOR BÍFIDO DE YOUNG",
+        "img": "images/7-26.jpg"
+      },
+      {
+        "number": "27",
+        "name": "EVACUADOR DE ELLIK",
+        "img": "images/7-27.jpg"
+      },
+      {
+        "number": "28",
+        "name": "EVACUADOR DESECHABLE",
+        "img": "images/7-28.jpg"
+      },
+      {
+        "number": "29",
+        "name": "JERINGA DE TOOMEY",
+        "img": "images/7-29.jpg"
+      },
+      {
+        "number": "30",
+        "name": "CAMISA Y OBTURADOR DEL CISTOSCOPIO",
+        "img": "images/7-30.jpg"
+      },
+      {
+        "number": "31",
+        "name": "CAMISA Y OBTURADOR DEL RESECTOSCOPIO",
+        "img": "images/7-31.jpg"
+      },
+      {
+        "number": "32",
+        "name": "CÁMARA ENDOSCÓPICA",
+        "img": "images/7-32.jpg"
+      },
+      {
+        "number": "33",
+        "name": "ENDOSCOPIO DE 30°",
+        "img": "images/7-33.jpg"
+      },
+      {
+        "number": "34",
+        "name": "ENDOSCOPIO DE 70°",
+        "img": "images/7-34.jpg"
+      },
+      {
+        "number": "35",
+        "name": "URETEROSCOPIO FLEXIBLE",
+        "img": "images/7-35.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Instrumental en oftalmología",
+    "number": 8,
+    "instrumentos": [
+      {
+        "number": "1",
+        "name": "TONÓMETRO",
+        "img": "images/8-1.jpg"
+      },
+      {
+        "number": "2",
+        "name": "ESCUDO OCULAR METÁLICO",
+        "img": "images/8-2.jpg"
+      },
+      {
+        "number": "3",
+        "name": "PINZAS BIPOLARES TIPO JOYERO",
+        "img": "images/8-3.jpg"
+      },
+      {
+        "number": "4",
+        "name": "CALIBRADOR DE CASTROVIEJO",
+        "img": "images/8-4.jpg"
+      },
+      {
+        "number": "5",
+        "name": "CUCHARILLA DE ENUCLEACIÓN DE WELLS",
+        "img": "images/8-5.jpg"
+      },
+      {
+        "number": "6",
+        "name": "ESPÁTULA PARA IRIS DE BARRAQUER",
+        "img": "images/8-6.jpg"
+      },
+      {
+        "number": "7",
+        "name": "GANCHO DE SINSKEY",
+        "img": "images/8-7.jpg"
+      },
+      {
+        "number": "8",
+        "name": "PINZAS HEMOSTÁTICAS SERREFINE",
+        "img": "images/8-8.jpg"
+      },
+      {
+        "number": "9",
+        "name": "CUCHARILLA PARA CHALAZIÓN DE MEYHOEFFER",
+        "img": "images/8-9.jpg"
+      },
+      {
+        "number": "10",
+        "name": "TIJERAS PARA ESTRABISMO",
+        "img": "images/8-10.jpg"
+      },
+      {
+        "number": "11",
+        "name": "TIJERAS PARA IRIS DE KNAPP",
+        "img": "images/8-11.jpg"
+      },
+      {
+        "number": "12",
+        "name": "TIJERAS PARA IRIS DE BARRAQUER",
+        "img": "images/8-12.jpg"
+      },
+      {
+        "number": "13",
+        "name": "TIJERAS PARA CÓRNEA DE CASTROVIEJO",
+        "img": "images/8-13.jpg"
+      },
+      {
+        "number": "14",
+        "name": "TIJERAS PARA TENOTOMÍA DE WESTCOTT",
+        "img": "images/8-14.jpg"
+      },
+      {
+        "number": "15",
+        "name": "TIJERAS PARA TENOTOMÍA DE STEVENS",
+        "img": "images/8-15.jpg"
+      },
+      {
+        "number": "16",
+        "name": "TIJERAS PARA SUTURA OCULAR",
+        "img": "images/8-16.jpg"
+      },
+      {
+        "number": "17",
+        "name": "TIJERAS PARA ENUCLEACIÓN",
+        "img": "images/8-17.jpg"
+      },
+      {
+        "number": "18",
+        "name": "TIJERAS PARA CAPSULOTOMÍA DE VANNAS",
+        "img": "images/8-18.jpg"
+      },
+      {
+        "number": "19",
+        "name": "PINZAS PARA IMPLANTACIÓN DEL CRISTALINO",
+        "img": "images/8-19.jpg"
+      },
+      {
+        "number": "20",
+        "name": "PINZAS PARA CHALAZIÓN DE DESMARRES",
+        "img": "images/8-20.jpg"
+      },
+      {
+        "number": "21",
+        "name": "PINZAS PARA CHALAZIÓN DE HUNT",
+        "img": "images/8-21.jpg"
+      },
+      {
+        "number": "22",
+        "name": "PINZAS TIPO JOYERO",
+        "img": "images/8-22.jpg"
+      },
+      {
+        "number": "23",
+        "name": "PINZAS COLIBRÍ",
+        "img": "images/8-23.jpg"
+      },
+      {
+        "number": "24",
+        "name": "PINZAS DE SUTURA DE CASTROVIEJO DE 0",
+        "img": "images/8-24.jpg"
+      },
+      {
+        "number": "25",
+        "name": "PINZAS PARA ANUDAR DE McPHERSON",
+        "img": "images/8-25.jpg"
+      },
+      {
+        "number": "26",
+        "name": "PINZAS PARA IRIS DE BISHOP-HARMON",
+        "img": "images/8-26.jpg"
+      },
+      {
+        "number": "27",
+        "name": "PINZAS DE JAMESON",
+        "img": "images/8-27.jpg"
+      },
+      {
+        "number": "28",
+        "name": "SONDAS PARA CONDUCTO LAGRIMAL",
+        "img": "images/8-28.jpg"
+      },
+      {
+        "number": "29",
+        "name": "DILATADOR DE WILDER",
+        "img": "images/8-29.jpg"
+      },
+      {
+        "number": "30",
+        "name": "BLEFAROSTATO DE BARRAQUER",
+        "img": "images/8-30.jpg"
+      },
+      {
+        "number": "31",
+        "name": "BLEFAROSTATO DE CASTROVIEJO",
+        "img": "images/8-31.jpg"
+      },
+      {
+        "number": "32",
+        "name": "BLEFAROSTATO DE WILLIAMS",
+        "img": "images/8-32.jpg"
+      },
+      {
+        "number": "33",
+        "name": "SEPARADOR PALPEBRAL DE DESMARRES",
+        "img": "images/8-33.jpg"
+      },
+      {
+        "number": "34",
+        "name": "GANCHO PARA ESTRABISMO DE VON GRAEFE",
+        "img": "images/8-34.jpg"
+      },
+      {
+        "number": "35",
+        "name": "GANCHO PARA MÚSCULO DE JAMESON",
+        "img": "images/8-35.jpg"
+      },
+      {
+        "number": "36",
+        "name": "PORTAAGUJAS DE CASTROVIEJO",
+        "img": "images/8-36.jpg"
+      },
+      {
+        "number": "37",
+        "name": "PORTAAGUJAS DE McPHERSON",
+        "img": "images/8-37.jpg"
+      },
+      {
+        "number": "38",
+        "name": "PORTAAGUJAS DE BARRAQUER",
+        "img": "images/8-38.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Instrumental en otorrinolaringología",
+    "number": 9,
+    "instrumentos": [
+      {
+        "number": "1",
+        "name": "CALIBRADOR DE HOUSE",
+        "img": "images/9-1.jpg"
+      },
+      {
+        "number": "2",
+        "name": "PINZAS DE COMPRESIÓN DE HOUSE",
+        "img": "images/9-2.jpg"
+      },
+      {
+        "number": "3",
+        "name": "APLASTADOR DE CARTÍLAGO DE COTTLE",
+        "img": "images/9-3.jpg"
+      },
+      {
+        "number": "4",
+        "name": "MALLETE DE COTTLE",
+        "img": "images/9-4.jpg"
+      },
+      {
+        "number": "5",
+        "name": "ESPEJO LARÍNGEO",
+        "img": "images/9-5.jpg"
+      },
+      {
+        "number": "6",
+        "name": "PUNTA DEL COAGULADOR CON ASPIRACIÓN",
+        "img": "images/9-6.jpg"
+      },
+      {
+        "number": "7",
+        "name": "SISTEMA DE ABLACIÓN POR RADIOFRECUENCIA",
+        "img": "images/9-7.jpg"
+      },
+      {
+        "number": "8",
+        "name": "ASA DE BILLEAU",
+        "img": "images/9-8.jpg"
+      },
+      {
+        "number": "9",
+        "name": "PINZAS HEMOSTÁTICAS DE ADSON",
+        "img": "images/9-9.jpg"
+      },
+      {
+        "number": "10",
+        "name": "PINZAS GUBIAS DE DEAN",
+        "img": "images/9-10.jpg"
+      },
+      {
+        "number": "11",
+        "name": "BISTURÍ DE MIRINGOTOMÍA",
+        "img": "images/9-11.jpg"
+      },
+      {
+        "number": "12",
+        "name": "CUCHARILLAS DE SPRATT",
+        "img": "images/9-12.jpg"
+      },
+      {
+        "number": "13",
+        "name": "MICROPINZAS AURICULARES",
+        "img": "images/9-13.jpg"
+      },
+      {
+        "number": "14",
+        "name": "PINZAS PARA MARTILLO DE HOUSE-DIETER",
+        "img": "images/9-14.jpg"
+      },
+      {
+        "number": "15",
+        "name": "TIJERAS DE BELLUCCI",
+        "img": "images/9-15.jpg"
+      },
+      {
+        "number": "16",
+        "name": "BISTURÍ FALCIFORME DE HOUSE",
+        "img": "images/9-16.jpg"
+      },
+      {
+        "number": "17",
+        "name": "BISTURÍ DE ROSEN",
+        "img": "images/9-17.jpg"
+      },
+      {
+        "number": "18",
+        "name": "BISTURÍ DE HOUSE",
+        "img": "images/9-18.jpg"
+      },
+      {
+        "number": "19",
+        "name": "ELEVADOR DE HOUSE",
+        "img": "images/9-19.jpg"
+      },
+      {
+        "number": "20",
+        "name": "ELEVADOR DE LEMPERT",
+        "img": "images/9-20.jpg"
+      },
+      {
+        "number": "21",
+        "name": "PINZAS GUBIAS DE CICHERELLI",
+        "img": "images/9-21.jpg"
+      },
+      {
+        "number": "22",
+        "name": "SEPARADOR DE HOUSE",
+        "img": "images/9-22.jpg"
+      },
+      {
+        "number": "23",
+        "name": "SEPARADOR DE HOUSE PARA VENTANA OVAL",
+        "img": "images/9-23.jpg"
+      },
+      {
+        "number": "24",
+        "name": "CUCHARILLA DOBLE DE HOUSE",
+        "img": "images/9-24.jpg"
+      },
+      {
+        "number": "25",
+        "name": "CUCHARILLA DE BUCK",
+        "img": "images/9-25.jpg"
+      },
+      {
+        "number": "26",
+        "name": "AGUJA DE ROSEN",
+        "img": "images/9-26.jpg"
+      },
+      {
+        "number": "27",
+        "name": "GANCHO DE HOUSE",
+        "img": "images/9-27.jpg"
+      },
+      {
+        "number": "28",
+        "name": "ELEVADOR DE HOUSE-BARBARA",
+        "img": "images/9-28.jpg"
+      },
+      {
+        "number": "29",
+        "name": "DISECTOR DE CRABTREE",
+        "img": "images/9-29.jpg"
+      },
+      {
+        "number": "30",
+        "name": "GANCHO RECTO DE HOUSE",
+        "img": "images/9-30.jpg"
+      },
+      {
+        "number": "31",
+        "name": "TIJERAS DE CAPLAN",
+        "img": "images/9-31.jpg"
+      },
+      {
+        "number": "32",
+        "name": "TIJERAS NASALES DE COTTLE",
+        "img": "images/9-32.jpg"
+      },
+      {
+        "number": "33",
+        "name": "TIJERAS PARA TABIQUE NASAL DE BECKER",
+        "img": "images/9-33.jpg"
+      },
+      {
+        "number": "34",
+        "name": "TIJERAS DE KNIGHT ANGULADAS",
+        "img": "images/9-34.jpg"
+      },
+      {
+        "number": "35",
+        "name": "TIJERAS DE JOSEPH",
+        "img": "images/9-35.jpg"
+      },
+      {
+        "number": "36",
+        "name": "RASPA NASAL DE AUFRICHT",
+        "img": "images/9-36.jpg"
+      },
+      {
+        "number": "37",
+        "name": "RASPA DE LEWIS",
+        "img": "images/9-37.jpg"
+      },
+      {
+        "number": "38",
+        "name": "RASPA DE MALTZ",
+        "img": "images/9-38.jpg"
+      },
+      {
+        "number": "39",
+        "name": "PINZAS GUBIAS DE KERRISON",
+        "img": "images/9-39.jpg"
+      },
+      {
+        "number": "40",
+        "name": "PINZAS GUBIAS DE KERRISON-COSTEN",
+        "img": "images/9-40.jpg"
+      },
+      {
+        "number": "41",
+        "name": "BISTURÍ GIRATORIO DE BALLENGER",
+        "img": "images/9-41.jpg"
+      },
+      {
+        "number": "42",
+        "name": "BISTURÍ NASAL DE FREER",
+        "img": "images/9-42.jpg"
+      },
+      {
+        "number": "43",
+        "name": "ELEVADOR DOBLE DE PIERCE",
+        "img": "images/9-43.jpg"
+      },
+      {
+        "number": "44",
+        "name": "ELEVADOR DOBLE DE FREER",
+        "img": "images/9-44.jpg"
+      },
+      {
+        "number": "45",
+        "name": "BISTURÍ PUNTA DE BOTÓN DE JOSEPH",
+        "img": "images/9-45.jpg"
+      },
+      {
+        "number": "46",
+        "name": "BISTURÍ NASAL DE COTTLE",
+        "img": "images/9-46.jpg"
+      },
+      {
+        "number": "47",
+        "name": "ELEVADOR DE COTTLE PARA EL TABIQUE NASAL",
+        "img": "images/9-47.jpg"
+      },
+      {
+        "number": "48",
+        "name": "RASPA NASAL DE WIENER",
+        "img": "images/9-48.jpg"
+      },
+      {
+        "number": "49",
+        "name": "CUCHARILLAS NASALES DE COAKLEY",
+        "img": "images/9-49.jpg"
+      },
+      {
+        "number": "50",
+        "name": "OSTEÓTOMO DE NEIVERT-ANDERSON CON GUARDA",
+        "img": "images/9-50.jpg"
+      },
+      {
+        "number": "51",
+        "name": "OSTEÓTOMO DE BALLENGER EN V",
+        "img": "images/9-51.jpg"
+      },
+      {
+        "number": "52",
+        "name": "PINZAS PARA TABIQUE NASAL DE JANSEN-MIDDLETON",
+        "img": "images/9-52.jpg"
+      },
+      {
+        "number": "53",
+        "name": "PINZAS NASALES DE TAKAHASHI",
+        "img": "images/9-53.jpg"
+      },
+      {
+        "number": "54",
+        "name": "PINZAS DE WILDE PARA ETMOIDES",
+        "img": "images/9-54.jpg"
+      },
+      {
+        "number": "55",
+        "name": "OSTEÓTOMO DE COTTLE",
+        "img": "images/9-55.jpg"
+      },
+      {
+        "number": "56",
+        "name": "CINCEL DE COTTLE",
+        "img": "images/9-56.jpg"
+      },
+      {
+        "number": "57",
+        "name": "OSTEÓTOMO DE CINELLI CON GUARDAS",
+        "img": "images/9-57.jpg"
+      },
+      {
+        "number": "58",
+        "name": "TIJERAS PARA AMÍGDALAS DE BOETTCHER",
+        "img": "images/9-58.jpg"
+      },
+      {
+        "number": "59",
+        "name": "SACABOCADOR PARA ADENOIDES DE MELTZER",
+        "img": "images/9-59.jpg"
+      },
+      {
+        "number": "60",
+        "name": "PINZAS PARA AMIGDALECTOMÍA CON ASA DE ALAMBRE",
+        "img": "images/9-60.jpg"
+      },
+      {
+        "number": "61",
+        "name": "CUCHARILLAS PARA ADENOIDES DE BARNHILL",
+        "img": "images/9-61.jpg"
+      },
+      {
+        "number": "62",
+        "name": "MICROPINZAS PARA ALAMBRE DE MCGEE",
+        "img": "images/9-62.jpg"
+      },
+      {
+        "number": "63",
+        "name": "MICROPINZAS COCODRILO DE WULLSTEIN",
+        "img": "images/9-63.jpg"
+      },
+      {
+        "number": "64",
+        "name": "PINZAS DE WALSHAM PARA ENDEREZAR EL TABIQUE NASAL",
+        "img": "images/9-64.jpg"
+      },
+      {
+        "number": "65",
+        "name": "MORCELADOR DE RUBIN",
+        "img": "images/9-65.jpg"
+      },
+      {
+        "number": "66",
+        "name": "PINZAS NASALES DE BRUENING",
+        "img": "images/9-66.jpg"
+      },
+      {
+        "number": "67",
+        "name": "PINZAS BAYONETA DE JANSEN",
+        "img": "images/9-67.jpg"
+      },
+      {
+        "number": "68",
+        "name": "PINZA ACODADA DE WILDE",
+        "img": "images/9-68.jpg"
+      },
+      {
+        "number": "69",
+        "name": "PINZAS DE ALLIS CURVAS",
+        "img": "images/9-69.jpg"
+      },
+      {
+        "number": "70",
+        "name": "GANCHO TRAQUEAL DE HUPP",
+        "img": "images/9-70.jpg"
+      },
+      {
+        "number": "71",
+        "name": "SEPARADOR DE JANSEN",
+        "img": "images/9-71.jpg"
+      },
+      {
+        "number": "72",
+        "name": "PINZAS DE COTTLE PARA TABIQUE NASAL",
+        "img": "images/9-72.jpg"
+      },
+      {
+        "number": "73",
+        "name": "RINOSCOPIO DE COTTLE",
+        "img": "images/9-73.jpg"
+      },
+      {
+        "number": "74",
+        "name": "RINOSCOPIO DE VIENNA",
+        "img": "images/9-74.jpg"
+      },
+      {
+        "number": "75",
+        "name": "RINOSCOPIO DE KILLIAN",
+        "img": "images/9-75.jpg"
+      },
+      {
+        "number": "76",
+        "name": "SEPARADOR CON GUÍA PARA BISTURÍ DE COTTLE",
+        "img": "images/9-76.jpg"
+      },
+      {
+        "number": "77",
+        "name": "SEPARADOR DE GANCHO DOBLE DE COTTLE",
+        "img": "images/9-77.jpg"
+      },
+      {
+        "number": "78",
+        "name": "GANCHO PARA PIEL DE JOSEPH",
+        "img": "images/9-78.jpg"
+      },
+      {
+        "number": "79",
+        "name": "SEPARADOR NASAL DE AUFRICHT",
+        "img": "images/9-79.jpg"
+      },
+      {
+        "number": "80",
+        "name": "ABATELENGUAS DE WIEDER",
+        "img": "images/9-80.jpg"
+      },
+      {
+        "number": "81",
+        "name": "SEPARADOR DE ÚVULA DE LOTHROP",
+        "img": "images/9-81.jpg"
+      },
+      {
+        "number": "82",
+        "name": "ABREBOCAS DE MCIVOR",
+        "img": "images/9-82.jpg"
+      },
+      {
+        "number": "83",
+        "name": "ABREBOCAS DE JENNINGS",
+        "img": "images/9-83.jpg"
+      },
+      {
+        "number": "84",
+        "name": "DISECTOR DE HURD",
+        "img": "images/9-84.jpg"
+      },
+      {
+        "number": "85",
+        "name": "SEPARADOR DE GREEN",
+        "img": "images/9-85.jpg"
+      },
+      {
+        "number": "86",
+        "name": "DILATADOR TRAQUEAL DE TROUSSEAU",
+        "img": "images/9-86.jpg"
+      },
+      {
+        "number": "87",
+        "name": "CÁNULA DE ASPIRACIÓN DE BARON",
+        "img": "images/9-87.jpg"
+      },
+      {
+        "number": "88",
+        "name": "CÁNULA DE ASPIRACIÓN DE YANKAUER NO DESECHABLE",
+        "img": "images/9-88.jpg"
+      },
+      {
+        "number": "89",
+        "name": "OTOSCOPIO DE BOUCHERON",
+        "img": "images/9-89.jpg"
+      },
+      {
+        "number": "90",
+        "name": "OTOSCOPIO DE FARRIOR",
+        "img": "images/9-90.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Instrumental oral",
+    "number": 10,
+    "instrumentos": [
+      {
+        "number": "1",
+        "name": "ESPEJO BUCAL",
+        "img": "images/10-1.jpg"
+      },
+      {
+        "number": "2",
+        "name": "BARRAS PARA REDUCCIÓN DE FRACTURAS MANDIBULARES",
+        "img": "images/10-2.jpg"
+      },
+      {
+        "number": "3",
+        "name": "ELEVADOR DE POTTS",
+        "img": "images/10-3.jpg"
+      },
+      {
+        "number": "4",
+        "name": "ELEVADOR DE CRANE",
+        "img": "images/10-4.jpg"
+      },
+      {
+        "number": "5",
+        "name": "ELEVADOR DE CRYER",
+        "img": "images/10-5.jpg"
+      },
+      {
+        "number": "6",
+        "name": "ELEVADOR APICAL",
+        "img": "images/10-6.jpg"
+      },
+      {
+        "number": "7",
+        "name": "EXPLORADOR DENTAL",
+        "img": "images/10-7.jpg"
+      },
+      {
+        "number": "8",
+        "name": "ELEVADOR DE PERIOSTIO DE WEST",
+        "img": "images/10-8.jpg"
+      },
+      {
+        "number": "9",
+        "name": "CUCHARILLA PARA HUESO DE LUCAS",
+        "img": "images/10-9.jpg"
+      },
+      {
+        "number": "10",
+        "name": "CUCHARILLA PARA HUESO DE MOLT",
+        "img": "images/10-10.jpg"
+      },
+      {
+        "number": "11",
+        "name": "TIJERAS DE KELLY",
+        "img": "images/10-11.jpg"
+      },
+      {
+        "number": "12",
+        "name": "TIJERAS DE DEAN",
+        "img": "images/10-12.jpg"
+      },
+      {
+        "number": "13",
+        "name": "TIJERAS PARA SUTURA DE SPENCER",
+        "img": "images/10-13.jpg"
+      },
+      {
+        "number": "14",
+        "name": "PINZAS PARA EXTRACCIÓN DE MOLARES SUPERIORES IZQUIERDOS (88L)",
+        "img": "images/10-14.jpg"
+      },
+      {
+        "number": "15",
+        "name": "PINZAS PARA EXTRACCIÓN DE MOLARES SUPERIORES DERECHOS (88R)",
+        "img": "images/10-15.jpg"
+      },
+      {
+        "number": "16",
+        "name": "PINZAS PARA EXTRACCIÓN DE MOLARES INFERIORES (17)",
+        "img": "images/10-16.jpg"
+      },
+      {
+        "number": "17",
+        "name": "PINZAS PARA EXTRACCIÓN DE DIENTES ANTERIORES SUPERIORES (150)",
+        "img": "images/10-17.jpg"
+      },
+      {
+        "number": "18",
+        "name": "PINZAS PARA EXTRACCIÓN DE DIENTES ANTERIORES INFERIORES (151)",
+        "img": "images/10-18.jpg"
+      },
+      {
+        "number": "19",
+        "name": "SEPARADOR DE CARRILLO DE MINNESOTA",
+        "img": "images/10-19.jpg"
+      },
+      {
+        "number": "20",
+        "name": "ABREBOCAS DE MOLT",
+        "img": "images/10-20.jpg"
+      },
+      {
+        "number": "21",
+        "name": "BLOQUE DE MEDIDA",
+        "img": "images/10-21.jpg"
+      },
+      {
+        "number": "22",
+        "name": "ABATELENGUAS DE ANDREWS",
+        "img": "images/10-22.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Instrumental en cirugía plástica y reconstructiva",
+    "number": 11,
+    "instrumentos": [
+      {
+        "number": "1",
+        "name": "MARCADOR DE AREOLA",
+        "img": "images/11-1.jpg"
+      },
+      {
+        "number": "2",
+        "name": "CERRADURA DE MCKISSOCK",
+        "img": "images/11-2.jpg"
+      },
+      {
+        "number": "3",
+        "name": "MALLADOR CUTÁNEO",
+        "img": "images/11-3.jpg"
+      },
+      {
+        "number": "4",
+        "name": "DERMÁTOMO DE PAGET",
+        "img": "images/11-4.jpg"
+      },
+      {
+        "number": "5",
+        "name": "HOJA PARA DERMÁTOMO",
+        "img": "images/11-5.jpg"
+      },
+      {
+        "number": "6",
+        "name": "BISTURÍ PARA INJERTO DE PIEL DE WATSON",
+        "img": "images/11-6.jpg"
+      },
+      {
+        "number": "7",
+        "name": "TIJERAS PARA IRIS",
+        "img": "images/11-7.jpg"
+      },
+      {
+        "number": "8",
+        "name": "TIJERAS DE KAYE PARA CIRUGÍA FACIAL",
+        "img": "images/11-8.jpg"
+      },
+      {
+        "number": "9",
+        "name": "TIJERAS DE LITTLER PARA CIRUGÍA PLÁSTICA",
+        "img": "images/11-9.jpg"
+      },
+      {
+        "number": "10",
+        "name": "TIJERAS DE STEVENS PARA TENOTOMÍA",
+        "img": "images/11-10.jpg"
+      },
+      {
+        "number": "11",
+        "name": "TIJERAS DE JAMISON",
+        "img": "images/11-11.jpg"
+      },
+      {
+        "number": "12",
+        "name": "TIJERAS DE REYNOLDS",
+        "img": "images/11-12.jpg"
+      },
+      {
+        "number": "13",
+        "name": "GANCHO PARA MAMOPLASTIA",
+        "img": "images/11-13.jpg"
+      },
+      {
+        "number": "14",
+        "name": "GANCHO DE JOSEPH PARA PIEL SIMPLE",
+        "img": "images/11-14.jpg"
+      },
+      {
+        "number": "15",
+        "name": "GANCHO DE JOSEPH PARA PIEL DOBLE",
+        "img": "images/11-15.jpg"
+      },
+      {
+        "number": "16",
+        "name": "TENÁCULO DE COTTLE SIMPLE",
+        "img": "images/11-16.jpg"
+      },
+      {
+        "number": "17",
+        "name": "TENÁCULO DE COTTLE DOBLE",
+        "img": "images/11-17.jpg"
+      },
+      {
+        "number": "18",
+        "name": "SEPARADOR DE MATHIEU",
+        "img": "images/11-18.jpg"
+      },
+      {
+        "number": "19",
+        "name": "SEPARADOR DE MEYERDING",
+        "img": "images/11-19.jpg"
+      },
+      {
+        "number": "20",
+        "name": "SEPARADOR DE RAGNELL",
+        "img": "images/11-20.jpg"
+      },
+      {
+        "number": "21",
+        "name": "SEPARADOR DE ACCIÓN CRUZADA",
+        "img": "images/11-21.jpg"
+      },
+      {
+        "number": "22",
+        "name": "SEPARADOR DE BRIGGS PARA MAMOPLASTIA",
+        "img": "images/11-22.jpg"
+      },
+      {
+        "number": "23",
+        "name": "CÁNULA PARA LIPOSUCCIÓN",
+        "img": "images/11-23.jpg"
+      },
+      {
+        "number": "24",
+        "name": "PORTAAGUJAS DE WEBSTER",
+        "img": "images/11-24.jpg"
+      },
+      {
+        "number": "25",
+        "name": "PORTAAGUJAS DE HALSEY",
+        "img": "images/11-25.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Instrumental en ortopedia",
+    "number": 12,
+    "instrumentos": [
+      {
+        "number": "1",
+        "name": "MEDIDOR DE PROFUNDIDAD PARA ORTOPEDIA",
+        "img": "images/12-1.jpg"
+      },
+      {
+        "number": "2",
+        "name": "REGLA",
+        "img": "images/12-2.jpg"
+      },
+      {
+        "number": "3",
+        "name": "MALLETE",
+        "img": "images/12-3.jpg"
+      },
+      {
+        "number": "4",
+        "name": "PISÓN ÓSEO",
+        "img": "images/12-4.jpg"
+      },
+      {
+        "number": "5",
+        "name": "CALIBRADOR DE TOWNLEY",
+        "img": "images/12-5.jpg"
+      },
+      {
+        "number": "6",
+        "name": "PISTOLA PARA CEMENTO ÓSEO",
+        "img": "images/12-6.jpg"
+      },
+      {
+        "number": "7",
+        "name": "SISTEMA DE CEMENTO ÓSEO",
+        "img": "images/12-7.jpg"
+      },
+      {
+        "number": "8",
+        "name": "CORDÓN LUMINOSO DEL FIBROSCOPIO",
+        "img": "images/12-8.jpg"
+      },
+      {
+        "number": "9",
+        "name": "TUBERÍA DE BOMBEO",
+        "img": "images/12-9.jpg"
+      },
+      {
+        "number": "10",
+        "name": "CAMISA DE 4 MM CON OBTURADOR ROMO",
+        "img": "images/12-10.jpg"
+      },
+      {
+        "number": "11",
+        "name": "CAMISA DE 4 MM CON OBTURADOR AGUDO",
+        "img": "images/12-11.jpg"
+      },
+      {
+        "number": "12",
+        "name": "ALAMBRES DE KIRSCHNER",
+        "img": "images/12-12.jpg"
+      },
+      {
+        "number": "13",
+        "name": "CLAVOS DE STEINMAN LISOS",
+        "img": "images/12-13.jpg"
+      },
+      {
+        "number": "14",
+        "name": "CLAVOS DE STEINMAN ROSCADOS",
+        "img": "images/12-14.jpg"
+      },
+      {
+        "number": "15",
+        "name": "PORTAHERRAMIENTA Y LLAVE",
+        "img": "images/12-15.jpg"
+      },
+      {
+        "number": "16",
+        "name": "JUEGO DE DESTORNILLADORES UNIVERSALES",
+        "img": "images/12-16.jpg"
+      },
+      {
+        "number": "17",
+        "name": "PINZAS DOBLADORAS DE PLACA",
+        "img": "images/12-17.jpg"
+      },
+      {
+        "number": "18",
+        "name": "MANO DE PLOMO",
+        "img": "images/12-18.jpg"
+      },
+      {
+        "number": "19",
+        "name": "SIERRA DE GIGLI",
+        "img": "images/12-19.jpg"
+      },
+      {
+        "number": "20",
+        "name": "SYSTEM 6® DE STRYKER®",
+        "img": "images/12-20.jpg"
+      },
+      {
+        "number": "21",
+        "name": "SISTEMA CORE® DE STRYKER®",
+        "img": "images/12-21.jpg"
+      },
+      {
+        "number": "22",
+        "name": "JUEGO DE BROCAS",
+        "img": "images/12-22.jpg"
+      },
+      {
+        "number": "23",
+        "name": "TIJERAS DE LITTLER",
+        "img": "images/12-23.jpg"
+      },
+      {
+        "number": "24",
+        "name": "TIJERAS PARA VENDAJES",
+        "img": "images/12-24.jpg"
+      },
+      {
+        "number": "25",
+        "name": "LIMA PARA HUESO",
+        "img": "images/12-25.jpg"
+      },
+      {
+        "number": "26",
+        "name": "RASPA DE MILLER",
+        "img": "images/12-26.jpg"
+      },
+      {
+        "number": "27",
+        "name": "RASPA DE PUTTI PARA HUESO",
+        "img": "images/12-27.jpg"
+      },
+      {
+        "number": "28",
+        "name": "ELEVADOR DE KEY",
+        "img": "images/12-28.jpg"
+      },
+      {
+        "number": "29",
+        "name": "ELEVADOR DE CREGO",
+        "img": "images/12-29.jpg"
+      },
+      {
+        "number": "30",
+        "name": "ELEVADOR DE FREER",
+        "img": "images/12-30.jpg"
+      },
+      {
+        "number": "31",
+        "name": "PINZAS CORTADORAS DE HUESO DE LISTON",
+        "img": "images/12-31.jpg"
+      },
+      {
+        "number": "32",
+        "name": "GUBIA PARA HUESO DE STILLE",
+        "img": "images/12-32.jpg"
+      },
+      {
+        "number": "33",
+        "name": "CINCEL PARA HUESO DE STILLE",
+        "img": "images/12-33.jpg"
+      },
+      {
+        "number": "34",
+        "name": "OSTEÓTOMO DE STILLE",
+        "img": "images/12-34.jpg"
+      },
+      {
+        "number": "35",
+        "name": "OSTEÓTOMO DE LAMBOTTE",
+        "img": "images/12-35.jpg"
+      },
+      {
+        "number": "36",
+        "name": "CORTADORA DE CLAVOS CANULADA",
+        "img": "images/12-36.jpg"
+      },
+      {
+        "number": "37",
+        "name": "CORTADORA DE CLAVOS DIAMANTADA",
+        "img": "images/12-37.jpg"
+      },
+      {
+        "number": "38",
+        "name": "CORTADORA DE CLAVOS GRANDES",
+        "img": "images/12-38.jpg"
+      },
+      {
+        "number": "39",
+        "name": "CUCHARILLAS PARA HUESO DE COPA OVALADA DE BRUNS",
+        "img": "images/12-39.jpg"
+      },
+      {
+        "number": "40",
+        "name": "PINZAS GUBIAS DE STILLE-LUER",
+        "img": "images/12-40.jpg"
+      },
+      {
+        "number": "41",
+        "name": "PINZAS GUBIAS DE ZAUFEL-JANSEN",
+        "img": "images/12-41.jpg"
+      },
+      {
+        "number": "42",
+        "name": "PINZAS GUBIAS DE CUSHING",
+        "img": "images/12-42.jpg"
+      },
+      {
+        "number": "43",
+        "name": "PINZAS PICO DE PATO DERECHAS E IZQUIERDAS",
+        "img": "images/12-43.jpg"
+      },
+      {
+        "number": "44",
+        "name": "PINZAS PICO DE PATO RECTAS",
+        "img": "images/12-44.jpg"
+      },
+      {
+        "number": "45",
+        "name": "CEPILLADORA PARA HUESO",
+        "img": "images/12-45.jpg"
+      },
+      {
+        "number": "46",
+        "name": "PINZAS PARA CARTÍLAGO DE MARTIN",
+        "img": "images/12-46.jpg"
+      },
+      {
+        "number": "47",
+        "name": "PINZAS PARA PLACA",
+        "img": "images/12-47.jpg"
+      },
+      {
+        "number": "48",
+        "name": "PINZAS PARA HUESO DE KERN",
+        "img": "images/12-48.jpg"
+      },
+      {
+        "number": "49",
+        "name": "PINZAS PORTAHUESOS DE LOWMAN",
+        "img": "images/12-49.jpg"
+      },
+      {
+        "number": "50",
+        "name": "PINZAS PARA HUESOS DE LEWIN",
+        "img": "images/12-50.jpg"
+      },
+      {
+        "number": "51",
+        "name": "PINZAS DE PUNTA",
+        "img": "images/12-51.jpg"
+      },
+      {
+        "number": "52",
+        "name": "PINZAS MECÁNICAS",
+        "img": "images/12-52.jpg"
+      },
+      {
+        "number": "53",
+        "name": "SEPARADOR DE BENNETT",
+        "img": "images/12-53.jpg"
+      },
+      {
+        "number": "54",
+        "name": "SEPARADOR DE HIBBS",
+        "img": "images/12-54.jpg"
+      },
+      {
+        "number": "55",
+        "name": "SEPARADOR DE BECKMAN",
+        "img": "images/12-55.jpg"
+      },
+      {
+        "number": "56",
+        "name": "PALANCA PARA HUESO DE MURPHY-LANE",
+        "img": "images/12-56.jpg"
+      },
+      {
+        "number": "57",
+        "name": "GANCHO PARA HUESO",
+        "img": "images/12-57.jpg"
+      },
+      {
+        "number": "58",
+        "name": "SEPARADOR DE CHANDLER",
+        "img": "images/12-58.jpg"
+      },
+      {
+        "number": "59",
+        "name": "MINISEPARADOR DE HOHMANN",
+        "img": "images/12-59.jpg"
+      },
+      {
+        "number": "60",
+        "name": "SEPARADOR DE HOHMANN AFILADO",
+        "img": "images/12-60.jpg"
+      },
+      {
+        "number": "61",
+        "name": "SEPARADOR DE HOHMANN ROMO",
+        "img": "images/12-61.jpg"
+      },
+      {
+        "number": "62",
+        "name": "SEPARADOR DE RAGNELL",
+        "img": "images/12-62.jpg"
+      },
+      {
+        "number": "63",
+        "name": "SEPARADOR DE ISRAEL DE CUATRO GARRAS",
+        "img": "images/12-63.jpg"
+      },
+      {
+        "number": "64",
+        "name": "SEPARADOR COBRA",
+        "img": "images/12-64.jpg"
+      },
+      {
+        "number": "65",
+        "name": "SEPARADOR PARA RODILLA DE BLOUNT",
+        "img": "images/12-65.jpg"
+      },
+      {
+        "number": "66",
+        "name": "PARA CADERA DE TAYLOR",
+        "img": "images/12-66.jpg"
+      },
+      {
+        "number": "67",
+        "name": "SEPARADOR DE ALM",
+        "img": "images/12-67.jpg"
+      },
+      {
+        "number": "68",
+        "name": "SEPARADOR PARA LA CABEZA DEL HÚMERO",
+        "img": "images/12-68.jpg"
+      },
+      {
+        "number": "69",
+        "name": "SEPARADOR PARA LA CABEZA DEL HÚMERO DE FUKUDA",
+        "img": "images/12-69.jpg"
+      },
+      {
+        "number": "70",
+        "name": "PALANCA PARA LA CABEZA DEL HÚMERO",
+        "img": "images/12-70.jpg"
+      },
+      {
+        "number": "71",
+        "name": "SEPARADOR PARA CÁPSULA ARTICULAR",
+        "img": "images/12-71.jpg"
+      },
+      {
+        "number": "72",
+        "name": "SEPARADOR PARA DELTOIDES DE BROWNE",
+        "img": "images/12-72.jpg"
+      },
+      {
+        "number": "73",
+        "name": "SEPARADOR AUTOESTÁTICO DE KOLBEL",
+        "img": "images/12-73.jpg"
+      },
+      {
+        "number": "74",
+        "name": "SISTEMA DE LIMPIEZA DE HERIDAS",
+        "img": "images/12-74.jpg"
+      },
+      {
+        "number": "75",
+        "name": "ENDOSCOPIO DE 25° Y 4 MM",
+        "img": "images/12-75.jpg"
+      },
+      {
+        "number": "76",
+        "name": "CÁMARA ENDOSCÓPICA",
+        "img": "images/12-76.jpg"
+      },
+      {
+        "number": "77",
+        "name": "JUEGO PARA FRAGMENTOS GRANDES",
+        "img": "images/12-77.jpg"
+      },
+      {
+        "number": "78",
+        "name": "JUEGO PARA FRAGMENTOS PEQUEÑOS: Imagen 1/3",
+        "img": "images/12-78.jpg"
+      },
+      {
+        "number": "79",
+        "name": "JUEGO PARA FRAGMENTOS PEQUEÑOS: Imagen 2/3",
+        "img": "images/12-79.jpg"
+      },
+      {
+        "number": "80",
+        "name": "JUEGO PARA FRAGMENTOS PEQUEÑOS: Imagen 3/3",
+        "img": "images/12-80.jpg"
+      },
+      {
+        "number": "81",
+        "name": "INSTRUMENTOS PARA REMPLAZO TOTAL DE RODILLA: Imagen 1/3",
+        "img": "images/12-81.jpg"
+      },
+      {
+        "number": "82",
+        "name": "INSTRUMENTOS PARA REMPLAZO TOTAL DE RODILLA: Imagen 2/3",
+        "img": "images/12-82.jpg"
+      },
+      {
+        "number": "83",
+        "name": "INSTRUMENTOS PARA REMPLAZO TOTAL DE RODILLA: Imagen 3/3",
+        "img": "images/12-83.jpg"
+      },
+      {
+        "number": "84",
+        "name": "INSTRUMENTOS PARA REMPLAZO TOTAL DE CADERA",
+        "img": "images/12-84.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Instrumental en neurocirugía",
+    "number": 13,
+    "instrumentos": [
+      {
+        "number": "1",
+        "name": "APLICADOR DE CLIPS DE RANEY",
+        "img": "images/13-1.jpg"
+      },
+      {
+        "number": "2",
+        "name": "CLIPS DE RANEY",
+        "img": "images/13-2.jpg"
+      },
+      {
+        "number": "3",
+        "name": "PISTOLA APLICADORA DE CLIPS PARA CUERO CABELLUDO",
+        "img": "images/13-3.jpg"
+      },
+      {
+        "number": "4",
+        "name": "APLICADORES DE CLIPS PARA ANEURISMA",
+        "img": "images/13-4.jpg"
+      },
+      {
+        "number": "5",
+        "name": "MALLETE",
+        "img": "images/13-5.jpg"
+      },
+      {
+        "number": "6",
+        "name": "PINZAS BIPOLARES DE CUSHING",
+        "img": "images/13-6.jpg"
+      },
+      {
+        "number": "7",
+        "name": "PINZAS HEMOSTÁTICAS DE DANDY",
+        "img": "images/13-7.jpg"
+      },
+      {
+        "number": "8",
+        "name": "TIJERAS DE STRULLY",
+        "img": "images/13-8.jpg"
+      },
+      {
+        "number": "9",
+        "name": "TIJERAS DE TAYLOR PARA DURAMADRE",
+        "img": "images/13-9.jpg"
+      },
+      {
+        "number": "10",
+        "name": "PINZAS GUBIAS DE BACON PARA CRÁNEO",
+        "img": "images/13-10.jpg"
+      },
+      {
+        "number": "11",
+        "name": "PINZAS GUBIAS DE BEYER",
+        "img": "images/13-11.jpg"
+      },
+      {
+        "number": "12",
+        "name": "PINZAS GUBIAS DE ADSON PARA CRÁNEO",
+        "img": "images/13-12.jpg"
+      },
+      {
+        "number": "13",
+        "name": "PINZAS GUBIAS DE LEKSELL",
+        "img": "images/13-13.jpg"
+      },
+      {
+        "number": "14",
+        "name": "PINZAS GUBIAS DE KERRISON",
+        "img": "images/13-14.jpg"
+      },
+      {
+        "number": "15",
+        "name": "PINZAS GUBIAS DE CUSHING PARA HIPÓFISIS",
+        "img": "images/13-15.jpg"
+      },
+      {
+        "number": "16",
+        "name": "PINZAS GUBIAS DE SPURLING (RECTAS)",
+        "img": "images/13-16.jpg"
+      },
+      {
+        "number": "17",
+        "name": "PINZAS GUBIAS “DELICADAS” RECTAS PARA DISCO CON TOMA HACIA ARRIBA Y TOMA HACIA ABAJO (SCHLESINGER)",
+        "img": "images/13-17.jpg"
+      },
+      {
+        "number": "18",
+        "name": "PINZAS GUBIAS DE WILDE",
+        "img": "images/13-18.jpg"
+      },
+      {
+        "number": "19",
+        "name": "DISECTOR DE PENFIELD #1",
+        "img": "images/13-19.jpg"
+      },
+      {
+        "number": "20",
+        "name": "DISECTOR DE PENFIELD #2",
+        "img": "images/13-20.jpg"
+      },
+      {
+        "number": "21",
+        "name": "DISECTOR DE PENFIELD #3",
+        "img": "images/13-21.jpg"
+      },
+      {
+        "number": "22",
+        "name": "DISECTOR DE PENFIELD #4",
+        "img": "images/13-22.jpg"
+      },
+      {
+        "number": "23",
+        "name": "DISECTOR DE PENFIELD #5",
+        "img": "images/13-23.jpg"
+      },
+      {
+        "number": "24",
+        "name": "JUEGO DE DISECTORES DE RHOTON AMPLIO",
+        "img": "images/13-24.jpg"
+      },
+      {
+        "number": "25",
+        "name": "MICROBISTURÍ",
+        "img": "images/13-25.jpg"
+      },
+      {
+        "number": "26",
+        "name": "ELEVADOR DE COBB",
+        "img": "images/13-26.jpg"
+      },
+      {
+        "number": "27",
+        "name": "CUCHARILLAS DE COBB",
+        "img": "images/13-27.jpg"
+      },
+      {
+        "number": "28",
+        "name": "CUCHARILLAS ANULARES DE COBB",
+        "img": "images/13-28.jpg"
+      },
+      {
+        "number": "29",
+        "name": "ELEVADOR DE PERIOSTIO DE ADSON",
+        "img": "images/13-29.jpg"
+      },
+      {
+        "number": "30",
+        "name": "ELEVADOR DE PERIOSTIO DE HOEN",
+        "img": "images/13-30.jpg"
+      },
+      {
+        "number": "31",
+        "name": "ELEVADOR DE PERIOSTIO DE LANGENBECK",
+        "img": "images/13-31.jpg"
+      },
+      {
+        "number": "32",
+        "name": "ELEVADOR DE WOODSON",
+        "img": "images/13-32.jpg"
+      },
+      {
+        "number": "33",
+        "name": "CUCHARILLAS DE BRUN",
+        "img": "images/13-33.jpg"
+      },
+      {
+        "number": "34",
+        "name": "TALADRO REY MIDAS",
+        "img": "images/13-34.jpg"
+      },
+      {
+        "number": "35",
+        "name": "TALADRO DE MANO DE HUDSON",
+        "img": "images/13-35.jpg"
+      },
+      {
+        "number": "36",
+        "name": "MICROTIJERAS DE RHOTON",
+        "img": "images/13-36.jpg"
+      },
+      {
+        "number": "37",
+        "name": "MICROTIJERAS DE BAYONETA DE RHOTON",
+        "img": "images/13-37.jpg"
+      },
+      {
+        "number": "38",
+        "name": "PINZAS DE BAYONETA DE ADSON PARA HIPÓFISIS",
+        "img": "images/13-38.jpg"
+      },
+      {
+        "number": "39",
+        "name": "PINZAS DE BAYONETA DE CUSHING",
+        "img": "images/13-39.jpg"
+      },
+      {
+        "number": "40",
+        "name": "SONDA CON PUNTA ESFÉRICA",
+        "img": "images/13-40.jpg"
+      },
+      {
+        "number": "41",
+        "name": "ESPÁTULAS DE DAVIS",
+        "img": "images/13-41.jpg"
+      },
+      {
+        "number": "42",
+        "name": "ESPÁTULAS DE SCOVILLE",
+        "img": "images/13-42.jpg"
+      },
+      {
+        "number": "43",
+        "name": "GANCHO PARA DURAMADRE",
+        "img": "images/13-43.jpg"
+      },
+      {
+        "number": "44",
+        "name": "SEPARADOR DE WOODSON PARA DURAMADRE",
+        "img": "images/13-44.jpg"
+      },
+      {
+        "number": "45",
+        "name": "GANCHO DE ADSON, AGUDO",
+        "img": "images/13-45.jpg"
+      },
+      {
+        "number": "46",
+        "name": "GANCHO DE DANDY PARA NERVIOS",
+        "img": "images/13-46.jpg"
+      },
+      {
+        "number": "47",
+        "name": "SEPARADOR DE LOVE PARA RAÍCES NERVIOSAS (ANGULADO)",
+        "img": "images/13-47.jpg"
+      },
+      {
+        "number": "48",
+        "name": "SEPARADOR DE SCOVILLE PARA RAÍCES NERVIOSAS (ANGULADO)",
+        "img": "images/13-48.jpg"
+      },
+      {
+        "number": "49",
+        "name": "SEPARADOR DE BECKMAN",
+        "img": "images/13-49.jpg"
+      },
+      {
+        "number": "50",
+        "name": "SEPARADOR PARA CEREBELO",
+        "img": "images/13-50.jpg"
+      },
+      {
+        "number": "51",
+        "name": "SEPARADOR DE LEYLA",
+        "img": "images/13-51.jpg"
+      },
+      {
+        "number": "52",
+        "name": "SEPARADOR DE MEYERDING PARA LAMINECTOMÍA",
+        "img": "images/13-52.jpg"
+      },
+      {
+        "number": "53",
+        "name": "SEPARADOR DE WILLIAMS PARA HEMILAMINECTOMÍA",
+        "img": "images/13-53.jpg"
+      },
+      {
+        "number": "54",
+        "name": "SEPARADOR DE MEYERDING MANUAL",
+        "img": "images/13-54.jpg"
+      },
+      {
+        "number": "55",
+        "name": "SEPARADOR DE DAVIS PARA CUERO CABELLUDO",
+        "img": "images/13-55.jpg"
+      },
+      {
+        "number": "56",
+        "name": "SEPARADOR DE JANSEN PARA CUERO CABELLUDO",
+        "img": "images/13-56.jpg"
+      },
+      {
+        "number": "57",
+        "name": "SEPARADOR DE SCOVILLE",
+        "img": "images/13-57.jpg"
+      },
+      {
+        "number": "58",
+        "name": "SEPARADOR FCA",
+        "img": "images/13-58.jpg"
+      },
+      {
+        "number": "59",
+        "name": "SEPARADOR INTERVERTEBRAL DE CLOWARD",
+        "img": "images/13-59.jpg"
+      },
+      {
+        "number": "60",
+        "name": "SEPARADOR CERVICAL DE CLOWARD",
+        "img": "images/13-60.jpg"
+      },
+      {
+        "number": "61",
+        "name": "SEPARADOR ESPINAL DE TAYLOR",
+        "img": "images/13-61.jpg"
+      },
+      {
+        "number": "62",
+        "name": "SONDA DE ASPIRACIÓN DE POPPEN",
+        "img": "images/13-62.jpg"
+      },
+      {
+        "number": "63",
+        "name": "CÁNULA DE ASPIRACIÓN DE FUKUSHIMA",
+        "img": "images/13-63.jpg"
+      },
+      {
+        "number": "64",
+        "name": "MICROPORTAAGUJAS DE RHOTON",
+        "img": "images/13-64.jpg"
+      },
+      {
+        "number": "65",
+        "name": "PORTAAGUJAS DE JACOBSEN",
+        "img": "images/13-65.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Instrumental en cirugía torácica y cardiovascular",
+    "number": 14,
+    "instrumentos": [
+      {
+        "number": "1",
+        "name": "ALMA PARA TORNIQUETE DE RUMEL",
+        "img": "images/14-1.jpg"
+      },
+      {
+        "number": "2",
+        "name": "TROCAR TORÁCICO",
+        "img": "images/14-2.jpg"
+      },
+      {
+        "number": "3",
+        "name": "GANCHO ROMO",
+        "img": "images/14-3.jpg"
+      },
+      {
+        "number": "4",
+        "name": "PINZAS PARA TUBO DE VORSE",
+        "img": "images/14-4.jpg"
+      },
+      {
+        "number": "5",
+        "name": "PINZAS BULLDOG DE DEBAKEY",
+        "img": "images/14-5.jpg"
+      },
+      {
+        "number": "6",
+        "name": "PINZAS BULLDOG DE DIETHRICH",
+        "img": "images/14-6.jpg"
+      },
+      {
+        "number": "7",
+        "name": "PINZAS BULLDOG DE GLOVER",
+        "img": "images/14-7.jpg"
+      },
+      {
+        "number": "8",
+        "name": "PINZAS APLICADORAS DE CLIPS",
+        "img": "images/14-8.jpg"
+      },
+      {
+        "number": "9",
+        "name": "PINZAS DE COOLEY",
+        "img": "images/14-9.jpg"
+      },
+      {
+        "number": "10",
+        "name": "PINZAS DE SATINSKY PARA VENA CAVA",
+        "img": "images/14-10.jpg"
+      },
+      {
+        "number": "11",
+        "name": "PINZAS CARDIOVASCULARES ATRAUMÁTICAS DE GLOVER",
+        "img": "images/14-11.jpg"
+      },
+      {
+        "number": "12",
+        "name": "PINZAS AÓRTICAS DE BECK",
+        "img": "images/14-12.jpg"
+      },
+      {
+        "number": "13",
+        "name": "PINZAS DE JAVID PARA ARTERIA CARÓTIDA",
+        "img": "images/14-13.jpg"
+      },
+      {
+        "number": "14",
+        "name": "PINZAS DE FOGARTY CON ACCESORIOS MANDIBULARES",
+        "img": "images/14-14.jpg"
+      },
+      {
+        "number": "15",
+        "name": "PINZAS AÓRTICAS DE DEBAKEY",
+        "img": "images/14-15.jpg"
+      },
+      {
+        "number": "16",
+        "name": "PINZAS VASCULARES PERIFÉRICAS DE DEBAKEY",
+        "img": "images/14-16.jpg"
+      },
+      {
+        "number": "17",
+        "name": "PINZAS DE LAMBERT-KAY PARA AORTA",
+        "img": "images/14-17.jpg"
+      },
+      {
+        "number": "18",
+        "name": "PINZAS DE DEBAKEY PARA COARTACIÓN",
+        "img": "images/14-18.jpg"
+      },
+      {
+        "number": "19",
+        "name": "PINZAS AÓRTICAS DE DEBAKEY CON CURVATURA LATERAL",
+        "img": "images/14-19.jpg"
+      },
+      {
+        "number": "20",
+        "name": "PINZAS DE COOLEY PARA COARTACIÓN",
+        "img": "images/14-20.jpg"
+      },
+      {
+        "number": "21",
+        "name": "PINZAS BRONQUIALES DE LEE",
+        "img": "images/14-21.jpg"
+      },
+      {
+        "number": "22",
+        "name": "PINZAS DE COOLEY PARA COARTACIÓN",
+        "img": "images/14-22.jpg"
+      },
+      {
+        "number": "23",
+        "name": "PINZAS BRONQUIALES DE LEE",
+        "img": "images/14-23.jpg"
+      },
+      {
+        "number": "24",
+        "name": "TIJERAS DE DIETHRICH",
+        "img": "images/14-24.jpg"
+      },
+      {
+        "number": "25",
+        "name": "TIJERAS DE POTTS-SMITH",
+        "img": "images/14-25.jpg"
+      },
+      {
+        "number": "26",
+        "name": "TIJERAS DE JAMISON",
+        "img": "images/14-26.jpg"
+      },
+      {
+        "number": "27",
+        "name": "TIJERAS DE REYNOLDS",
+        "img": "images/14-27.jpg"
+      },
+      {
+        "number": "28",
+        "name": "TIJERAS DE YASARGIL",
+        "img": "images/14-28.jpg"
+      },
+      {
+        "number": "29",
+        "name": "TIJERAS DE COOLEY",
+        "img": "images/14-29.jpg"
+      },
+      {
+        "number": "30",
+        "name": "CUCHILLO ESTERNAL DE LEBSCHE",
+        "img": "images/14-30.jpg"
+      },
+      {
+        "number": "31",
+        "name": "RASPA DE FARABEUF",
+        "img": "images/14-31.jpg"
+      },
+      {
+        "number": "32",
+        "name": "CIZALLAS DE GLUCK PARA COSTILLAS",
+        "img": "images/14-32.jpg"
+      },
+      {
+        "number": "33",
+        "name": "CIZALLAS DE STILLE-GIERTZ PARA COSTILLAS",
+        "img": "images/14-33.jpg"
+      },
+      {
+        "number": "34",
+        "name": "PINZAS GUBIAS DE SAUERBRUCH PARA COSTILLAS",
+        "img": "images/14-34.jpg"
+      },
+      {
+        "number": "35",
+        "name": "TIJERAS DE LILLY",
+        "img": "images/14-35.jpg"
+      },
+      {
+        "number": "36",
+        "name": "SIERRA ESTERNAL",
+        "img": "images/14-36.jpg"
+      },
+      {
+        "number": "37",
+        "name": "RASPADORES DE DOYEN",
+        "img": "images/14-37.jpg"
+      },
+      {
+        "number": "38",
+        "name": "LEGRA COSTAL DE MATSON",
+        "img": "images/14-38.jpg"
+      },
+      {
+        "number": "39",
+        "name": "CIZALLAS PARA COSTILLAS",
+        "img": "images/14-39.jpg"
+      },
+      {
+        "number": "40",
+        "name": "PINZAS CORTADORAS DE ALAMBRE",
+        "img": "images/14-40.jpg"
+      },
+      {
+        "number": "41",
+        "name": "PINZAS BRONQUIALES DE SAROT",
+        "img": "images/14-41.jpg"
+      },
+      {
+        "number": "42",
+        "name": "PINZAS DE MILLS/DENNIS CON MICROANILLOS",
+        "img": "images/14-42.jpg"
+      },
+      {
+        "number": "43",
+        "name": "PINZAS DE GERALD",
+        "img": "images/14-43.jpg"
+      },
+      {
+        "number": "44",
+        "name": "PINZAS DE DEBAKEY-DIETHRICH",
+        "img": "images/14-44.jpg"
+      },
+      {
+        "number": "45",
+        "name": "PINZAS DE POTTS-SMITH",
+        "img": "images/14-45.jpg"
+      },
+      {
+        "number": "46",
+        "name": "PINZAS PULMONARES DE DUVAL",
+        "img": "images/14-46.jpg"
+      },
+      {
+        "number": "47",
+        "name": "PINZAS VASCULARES DE DEBAKEY DE CUSHING PARA VENAS",
+        "img": "images/14-47.jpg"
+      },
+      {
+        "number": "48",
+        "name": "APROXIMADOR COSTAL DE BAILEY",
+        "img": "images/14-48.jpg"
+      },
+      {
+        "number": "49",
+        "name": "DILATADORES VASCULARES DE GARRETT",
+        "img": "images/14-49.jpg"
+      },
+      {
+        "number": "50",
+        "name": "SEPARADOR PULMONAR DE ALLISON",
+        "img": "images/14-50.jpg"
+      },
+      {
+        "number": "51",
+        "name": "SEPARADOR ARTERIAL DE COOLEY",
+        "img": "images/14-51.jpg"
+      },
+      {
+        "number": "52",
+        "name": "SEPARADOR COSTAL DE BURFORD",
+        "img": "images/14-52.jpg"
+      },
+      {
+        "number": "53",
+        "name": "SEPARADOR INTERCOSTAL DE FINOCHIETTO",
+        "img": "images/14-53.jpg"
+      },
+      {
+        "number": "54",
+        "name": "SEPARADOR EPICÁRDICO DE PARSONNET",
+        "img": "images/14-54.jpg"
+      },
+      {
+        "number": "55",
+        "name": "SEPARADOR DE DAVIDSON PARA ESCÁPULA",
+        "img": "images/14-55.jpg"
+      },
+      {
+        "number": "56",
+        "name": "SEPARADOR DE ANKENEY",
+        "img": "images/14-56.jpg"
+      },
+      {
+        "number": "57",
+        "name": "SEPARADOR DE MAMARIA",
+        "img": "images/14-57.jpg"
+      },
+      {
+        "number": "58",
+        "name": "CÁNULA DE ASPIRACIÓN DE ANDREWS-PYNCHON",
+        "img": "images/14-58.jpg"
+      },
+      {
+        "number": "59",
+        "name": "CÁNULA DE ASPIRACIÓN VASCULAR",
+        "img": "images/14-59.jpg"
+      },
+      {
+        "number": "60",
+        "name": "PORTAAGUJAS",
+        "img": "images/14-60.jpg"
+      },
+      {
+        "number": "61",
+        "name": "PORTAAGUJAS PARA ALAMBRE ESTERNAL",
+        "img": "images/14-61.jpg"
+      },
+      {
+        "number": "62",
+        "name": "PORTAAGUJAS DE COOLEY",
+        "img": "images/14-62.jpg"
+      },
+      {
+        "number": "63",
+        "name": "PORTAAGUJAS DE CASTROVIEJO",
+        "img": "images/14-63.jpg"
+      }
+    ]
+  }
+]
