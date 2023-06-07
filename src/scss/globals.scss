@@ -23,8 +23,42 @@ body {
   color: styles.$text-primary;
 }
 
-.accordion-item--flush {
-  .cds--accordion__content {
-    padding: 0;
+.accordion-item {
+  &--sticky {
+    .cds--accordion__heading {
+      position: sticky;
+      top: 3rem;
+      z-index: 1;
+      background-color: var(--cds-layer);
+    }
+  }
+  &--flush {
+    .cds--accordion__content {
+      padding: 0;
+    }
+  }
+}
+
+.cds--btn {
+  &--danger {
+    --cds-button-focus-color: var(--cds-button-danger-primary);
+  }
+  &--success {
+    --cds-focus: var(--cds-support-success);
+    --cds-button-focus-color: var(--cds-support-success);
+    border: 1px solid var(--cds-support-success);
+    background-color: var(--cds-support-success);
+    color: var(--cds-text-inverse);
+    &:focus {
+      border-color: var(--cds-button-focus-color);
+      box-shadow: inset 0 0 0 1px var(--cds-button-focus-color), inset 0 0 0 2px var(--cds-background);
+    }
+  }
+  &--success--tertiary {
+    border-color: var(--cds-support-success);
+    border-width: 1px;
+    border-style: solid;
+    color: var(--cds-support-success);
+    background-color: transparent;
   }
 }

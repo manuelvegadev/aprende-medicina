@@ -25,7 +25,7 @@ export const UIShell: React.FC = () => {
             display: 'contents',
           }}
         >
-          <HeaderGlobalAction aria-label="Inicio" tooltipAlignment="start">
+          <HeaderGlobalAction aria-label="Github" tooltipAlignment="start">
             <LogoGithub size={20} />
           </HeaderGlobalAction>
         </a>
@@ -34,6 +34,7 @@ export const UIShell: React.FC = () => {
       <HeaderGlobalBar>
         <HeaderGlobalAction
           aria-label="Cambiar tema"
+          tooltipAlignment="end"
           onClick={() => toggleTheme(isLight ? 'g100' : 'white')}
         >
           {isLight ? <Asleep size={20} /> : <Light size={20} />}

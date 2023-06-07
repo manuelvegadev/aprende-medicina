@@ -14,5 +14,6 @@ module.exports = {
   rules: {
     'react-refresh/only-export-components': 'warn',
     'react/react-in-jsx-scope': 'off',
+    '@typescript-eslint/ban-ts-comment': 'warn',
   },
 }

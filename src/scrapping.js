@@ -9,6 +9,7 @@ const downloadImage = async (url, filepath) => {
   const response = await fetch(url);
   const blob = await response.blob();
   const arrayBuffer = await blob.arrayBuffer();
+  // eslint-disable-next-line no-undef
   const buffer = Buffer.from(arrayBuffer);
   await fs.writeFileSync(filepath, buffer);
   console.log('Downloaded', filepath);
@@ -40,52 +41,58 @@ const downloadImage = async (url, filepath) => {
 
     const $instrumentos = $(element).next().find('p');
 
-    $instrumentos.each(async (instrumentoIndex, element) => {
-      // Is only the title that is for close the group
-      if (instrumentoIndex === 0) {
-        contents[groupIndex].instrumentos.push(undefined);
-        return;
-      }
-
-      // Sometimes the p element is empty
-      const text = $(element).text().trim();
-      if (!text) {
-        contents[groupIndex].instrumentos.push(undefined);
-        return;
-      }
-
-      const [instrumentNumber, instrumentName] = text
-        .split('.')
-        .map((item) => item.trim());
-
-      contents[groupIndex].instrumentos.push({
-        number: instrumentNumber,
-        name: instrumentName,
-        img: '',
-      });
-      const image = $(element).find('a').attr('href');
-      if (image) {
-        // Is the link for close the group
-        if (image.includes('javascript')) {
-          contents[groupIndex].instrumentos[instrumentoIndex] = undefined;
+    $instrumentos.each(
+      /**
+       * @param {number} instrumentoIndex
+       * @param {HTMLParagraphElement} element
+       */
+      async (instrumentoIndex, element) => {
+        // Is only the title that is for close the group
+        if (instrumentoIndex === 0) {
+          contents[groupIndex].instrumentos.push(undefined);
           return;
         }
 
-        const fileName = `${groupNumber}-${instrumentNumber}.${image
+        // Sometimes the p element is empty
+        const text = $(element).text().trim();
+        if (!text) {
+          contents[groupIndex].instrumentos.push(undefined);
+          return;
+        }
+
+        let [instrumentNumber, instrumentName] = text
           .split('.')
-          .at(-1)}`;
+          .map((item) => item.trim());
 
-        contents[groupIndex].instrumentos[
-          instrumentoIndex
-        ].img = `images/${fileName}`;
+        contents[groupIndex].instrumentos.push({
+          number: Number(instrumentNumber),
+          name: instrumentName,
+          img: '',
+        });
+        const image = $(element).find('a').attr('href');
+        if (image) {
+          // Is the link for close the group
+          if (image.includes('javascript')) {
+            contents[groupIndex].instrumentos[instrumentoIndex] = undefined;
+            return;
+          }
 
-        await downloadImage(
-          'https://www.manualmoderno.com/apoyos_electronicos/9786074483987/' +
-            image,
-          `public/images/${fileName}`,
-        );
-      }
-    });
+          const fileName = `${groupNumber}-${instrumentNumber}.${image
+            .split('.')
+            .at(-1)}`;
+
+          contents[groupIndex].instrumentos[
+            instrumentoIndex
+          ].img = `images/${fileName}`;
+
+          await downloadImage(
+            'https://www.manualmoderno.com/apoyos_electronicos/9786074483987/' +
+              image,
+            `public/images/${fileName}`,
+          );
+        }
+      },
+    );
 
     // Remove the undefined elements
     contents[groupIndex].instrumentos = contents[
